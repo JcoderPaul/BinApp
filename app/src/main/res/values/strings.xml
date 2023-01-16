@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BinKotVerOneApp</string>
+    <string name="enter_bin_number">Введите BIN (6-8 знаков)</string>
+    <string name="button_get_bin_data">Запросить данные</string>
+    <string name="bad_connect_toast">Нет доступа к серверу данных или Интернету!</string>
+    <string name="empty_edit_text_field">Вы не ввели значение BIN!</string>
+</resources>
